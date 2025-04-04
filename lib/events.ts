@@ -35,7 +35,7 @@ export const events: Event[] = [
     venue: "Central Park",
     location: "New York, NY",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/1720451762802-0KY5YG9TMT4I0Q95N3IW/Jams_SummerFestival_BlogThumbnail.png",
     date: "2025-04-05",
     time: "12:00 PM - 11:00 PM",
     category: "Music",
@@ -86,7 +86,7 @@ export const events: Event[] = [
     venue: "Convention Center",
     location: "San Francisco, CA",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://women-in-tech.org/wp-content/uploads/2024/06/womenintech-global-summit-2024.jpg",
     date: "2025-04-05",
     time: "9:00 AM - 5:00 PM",
     category: "Technology",
@@ -130,7 +130,7 @@ export const events: Event[] = [
     venue: "Art Gallery",
     location: "Los Angeles, CA",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://images.artfacts.net/exhibpics/1ce9d019-9f61-41a2-be7c-3a29afb0f9af",
     date: "2025-04-05",
     time: "10:00 AM - 6:00 PM",
     category: "Art",
@@ -174,7 +174,7 @@ export const events: Event[] = [
     venue: "City Park",
     location: "Chicago, IL",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://disneyparksblog.com/app/uploads/2024/08/2024-disney-eats-foodie-guide-food-and-wine-header.png",
     date: "2025-04-05",
     time: "11:00 AM - 10:00 PM",
     category: "Food & Drink",
@@ -212,13 +212,13 @@ export const events: Event[] = [
   },
   {
     id: "5",
-    title: "Fashion Week 2024",
+    title: "Fashion Week 2025",
     description:
       "Experience the latest trends in fashion at Fashion Week 2024. This week-long event will feature runway shows, designer showcases, and networking opportunities. Join fashion enthusiasts, industry professionals, and influencers for an unforgettable experience!",
     venue: "Fashion District",
     location: "Miami, FL",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://rexclarkeadventures.com/wp-content/uploads/2025/02/MixCollage-14-Feb-2025-10-08-PM-5005.jpg",
     date: "2025-04-05",
     time: "9:00 AM - 10:00 PM",
     category: "Fashion",
@@ -256,13 +256,13 @@ export const events: Event[] = [
   },
   {
     id: "6",
-    title: "Sports Expo 2024",
+    title: "Sports Expo 2025",
     description:
       "Join us for the Sports Expo 2024, where sports enthusiasts gather to celebrate their passion. This two-day event will feature interactive exhibits, athlete meet-and-greets, and workshops on various sports. Don't miss this opportunity to connect with fellow fans and learn from the best!",
     venue: "Sports Arena",
     location: "Dallas, TX",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5gEErcSbJ8vvvZx_UaTEQLYbLTj3xsS_GQw&s",
     date: "2025-04-05",
     time: "10:00 AM - 6:00 PM",
     category: "Sports",
@@ -300,13 +300,13 @@ export const events: Event[] = [
   },
   {
     id: "7",
-    title: "Wellness Retreat 2024",
+    title: "Wellness Retreat 2025",
     description:
       "Join us for a rejuvenating experience at the Wellness Retreat 2024. This three-day event will focus on mental and physical well-being, featuring workshops, yoga sessions, and wellness talks. Connect with like-minded individuals and take a break from your daily routine!",
     venue: "Mountain Resort",
     location: "Denver, CO",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3CzR-O74SMcVQx1XgBbL-Vbm8wgJJWgS5A&s",
     date: "2025-04-05",
     time: "9:00 AM - 5:00 PM",
     category: "Health & Wellness",
@@ -344,13 +344,13 @@ export const events: Event[] = [
   },
   {
     id: "8",
-    title: "Film Festival 2024",
+    title: "Film Festival 2025",
     description:
       "Celebrate the art of cinema at the Film Festival 2024. This week-long event will showcase independent films, documentaries, and panel discussions with filmmakers. Join us for screenings, Q&A sessions, and networking opportunities with industry professionals.",
     venue: "Cineplex Theater",
     location: "Seattle, WA",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbC9MGKuGjrzrBOSc_5irYx09ojRVgavhrIQ&s",
     date: "2025-04-05",
     time: "10:00 AM - 10:00 PM",
     category: "Film",
@@ -388,13 +388,13 @@ export const events: Event[] = [
   },
   {
     id: "9",
-    title: "Gaming Expo 2024",
+    title: "Gaming Expo 2025",
     description:
       "Join us for the Gaming Expo 2024, where gamers unite to celebrate their passion. This three-day event will feature game demos, tournaments, and panels with industry experts. Don't miss this opportunity to connect with fellow gamers and discover the latest in gaming!",
     venue: "Gaming Arena",
     location: "Las Vegas, NV",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtwxuPe637m-A8tbxxnf5xgiMjkNDJzqNtA&s",
     date: "2025-04-05",
     time: "10:00 AM - 8:00 PM",
     category: "Gaming",
@@ -432,13 +432,13 @@ export const events: Event[] = [
   },
   {
     id: "10",
-    title: "Travel Expo 2024",
+    title: "Travel Expo 2025",
     description:
       "Explore the world of travel at the Travel Expo 2024. This two-day event will feature travel agencies, tour operators, and workshops on travel planning. Join us for presentations, networking opportunities, and exclusive travel deals!",
     venue: "Expo Center",
     location: "Orlando, FL",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6-vPlBJNGkmgL8tdklzfCDOu-KfzEmz_FAw&s",
     date: "2025-04-05",
     time: "10:00 AM - 6:00 PM",
     category: "Travel",
@@ -476,13 +476,13 @@ export const events: Event[] = [
   },
   {
     id: "11",
-    title: "Startup Summit 2024",
+    title: "Startup Summit 2025",
     description:
       "Connect with entrepreneurs and investors at the Startup Summit 2024. This two-day event will feature pitch competitions, workshops, and networking opportunities. Learn from industry leaders and take your startup to the next level!",
     venue: "Innovation Hub",
     location: "Austin, TX",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jRFVgix92sYdHLQDdK1rMT0Rj68oRMWxOg&s",
     date: "2025-04-05",
     time: "9:00 AM - 6:00 PM",
     category: "Business",
@@ -520,13 +520,13 @@ export const events: Event[] = [
   },
   {
     id: "12",
-    title: "Photography Workshop 2024",
+    title: "Photography Workshop 2025",
     description:
       "Enhance your photography skills at the Photography Workshop 2024. This one-day event will feature hands-on sessions, expert tips, and networking opportunities with fellow photographers.",
     venue: "Studio 101",
     location: "Portland, OR",
     imageUrl:
-      "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0p0nMt3h05qxlUxdDoS6opR-yx8_E_E8dA&s",
     date: "2025-04-05",
     time: "10:00 AM - 4:00 PM",
     category: "Photography",

@@ -263,7 +263,7 @@ export default function MarketingPage() {
                   location: "Central Park, New York",
                   price: "$89",
                   image:
-                    "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+                    "https://images.squarespace-cdn.com/content/v1/5f0770791aaf57311515b23d/1720451762802-0KY5YG9TMT4I0Q95N3IW/Jams_SummerFestival_BlogThumbnail.png",
                 },
                 {
                   title: "Tech Conference 2024",
@@ -271,7 +271,7 @@ export default function MarketingPage() {
                   location: "Convention Center, San Francisco",
                   price: "$199",
                   image:
-                    "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+                    "https://women-in-tech.org/wp-content/uploads/2024/06/womenintech-global-summit-2024.jpg",
                 },
                 {
                   title: "Food & Wine Expo",
@@ -279,7 +279,7 @@ export default function MarketingPage() {
                   location: "Grand Hall, Chicago",
                   price: "$45",
                   image:
-                    "https://kzmleevqk1ps9yb70uod.lite.vusercontent.net/placeholder.svg?height=400&width=600",
+                    "https://images.artfacts.net/exhibpics/1ce9d019-9f61-41a2-be7c-3a29afb0f9af",
                 },
               ].map((event, i) => (
                 <div
@@ -336,8 +336,8 @@ export default function MarketingPage() {
                 What our users say
               </h2>
               <p className="max-w-[700px] text-muted-foreground md:text-xl">
-                Don't just take our word for it - hear from some of our satisfied
-                users.
+                Don't just take our word for it - hear from some of our
+                satisfied users.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -398,8 +398,8 @@ export default function MarketingPage() {
                       Ready to discover your next event?
                     </h2>
                     <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                      Join thousands of event-goers who use Tapakila to discover,
-                      book, and enjoy amazing events.
+                      Join thousands of event-goers who use Tapakila to
+                      discover, book, and enjoy amazing events.
                     </p>
                   </div>
                   <div className="flex flex-col sm:flex-row gap-3">

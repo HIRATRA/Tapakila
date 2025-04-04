@@ -30,7 +30,7 @@ export default function EventsPage() {
   const [currentPage, setCurrentPage] = useState(1);
 
   // Number of items to display per page
-  const itemsPerPage = 8;
+  const itemsPerPage = 4;
 
   // Get upcoming events (next 7 days)
   const today = new Date();
